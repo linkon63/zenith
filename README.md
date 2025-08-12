@@ -1,4 +1,4 @@
-# 🌟 Zenith: Peak Development Experience.
+# 🌟 Zenith : Peak Development Experience.
 
 <div align="center">
   <img src="art/zenith-cover.jpg" alt="Zenith - Peak Development Experience" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
